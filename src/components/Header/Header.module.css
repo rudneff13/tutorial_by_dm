@@ -1,0 +1,8 @@
+.header{
+  grid-area: h;
+  background-image: url("https://demo.arrowthemes.com/joomla/uneedo/images/demo/green/slide/1.jpg");
+}
+
+.header img{
+  width: 60px;
+}

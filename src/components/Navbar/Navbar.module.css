@@ -1,0 +1,30 @@
+.nav{
+  grid-area: n;
+  background-color: rgba(161, 193, 21, 1);
+
+    padding-left: 20px;
+}
+
+.item a {
+  color: white;
+  text-decoration: none;
+}
+
+.item a.activeLink{
+  font-weight: bold;
+  background-color: lightblue;
+}
+
+.friendsBlock{
+  display: grid;
+  grid-template-rows: 1fr 1fr;
+  font-size: x-large;
+  text-align: center;
+}
+
+.friends{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+
+
+}
